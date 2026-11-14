@@ -1,0 +1,8 @@
+{
+  "repository": "https://github.com/sp00nznet/ps3recomp.git",
+  "commit": "de4f090328ea08bef6b2f15caec0b85e343a7ece",
+  "license": "MIT; separately licensed ATRAC decoder LGPL-2.1-or-later",
+  "reference_fork": "https://github.com/soyjxck/ps3recomp",
+  "generated_game_code_included": false,
+  "binary_game_data_included": false
+}
